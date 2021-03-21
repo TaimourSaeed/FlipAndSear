@@ -14,6 +14,7 @@ struct ContentView: View {
     }
 }
 
+// this is to generate a preview for debugging has no impact on the end product
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
